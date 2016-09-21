@@ -1,7 +1,21 @@
 body {
-    background-color: aliceblue;
+    background-color: whitesmoke;
 }
 
 #app {
     margin-top: 5%;
+}
+
+.input-group {
+    margin-bottom: 3%;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+td:first-of-type {
+    height: 200px;
+    width: 250px;
 }
